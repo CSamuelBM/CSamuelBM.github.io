@@ -33,3 +33,5 @@ saluda(nom)
 >Para hacer el codigo en python hay que tomar en cuenta la sangria **Es Muy Importante**.
 
 [Explicacion Modulo](document.md)
+
+[Al Conector](../README.md)
